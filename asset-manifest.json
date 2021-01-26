@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Login-Api-Training/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/Login-Api-Training/static/js/main.1480c8a8.chunk.js",
+    "main.js.map": "/Login-Api-Training/static/js/main.1480c8a8.chunk.js.map",
+    "runtime-main.js": "/Login-Api-Training/static/js/runtime-main.18460a61.js",
+    "runtime-main.js.map": "/Login-Api-Training/static/js/runtime-main.18460a61.js.map",
+    "static/js/2.d78c0d8c.chunk.js": "/Login-Api-Training/static/js/2.d78c0d8c.chunk.js",
+    "static/js/2.d78c0d8c.chunk.js.map": "/Login-Api-Training/static/js/2.d78c0d8c.chunk.js.map",
+    "static/js/3.ff3891e9.chunk.js": "/Login-Api-Training/static/js/3.ff3891e9.chunk.js",
+    "static/js/3.ff3891e9.chunk.js.map": "/Login-Api-Training/static/js/3.ff3891e9.chunk.js.map",
+    "index.html": "/Login-Api-Training/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/Login-Api-Training/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.d78c0d8c.chunk.js.LICENSE.txt": "/Login-Api-Training/static/js/2.d78c0d8c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.18460a61.js",
+    "static/js/2.d78c0d8c.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.1480c8a8.chunk.js"
+  ]
+}
