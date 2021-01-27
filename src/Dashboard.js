@@ -68,6 +68,7 @@ class Dashboard extends React.Component {
             currentAd: undefined})
           }} 
           currentAd={this.state.currentAd}/>
+          <button onClick={() => this.props.client.logoutHandler()}>logout</button>
       </>
     )
 
